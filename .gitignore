@@ -1,0 +1,19 @@
+# --- Frontend (React) ---
+node_modules/
+build/
+dist/
+.env
+.DS_Store
+
+# --- Backend (Java/Spring) ---
+target/
+*.class
+.mvn/
+*.jar
+*.war
+out/
+
+# --- IDE (File di configurazione inutili) ---
+.idea/
+.vscode/
+*.swp
